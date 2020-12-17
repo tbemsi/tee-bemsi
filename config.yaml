@@ -1,0 +1,38 @@
+baseurl: /
+title: Hugo Renga Theme Demo
+author: Bemsibom Toh
+canonifyurls: yes
+languagecode: en
+paginate: 3
+theme: hugo-renga
+enableEmoji: yes
+hasCJKLanguage: yes
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _files$
+  - _cache$
+params:
+  copyright: © 2020 Bemsibom Toh
+  copyrightUrl: https://nanx.me/hugo-renga/
+  email: tbemsi@gmail.com
+  faviconfile: image/favicon.png
+  github: nanxstats
+  highlightjs: yes
+  linkedin: nanxstats
+  logofile: image/avatar.png
+  pagetitle: Bemsibom Toh
+  posts_navigation: yes
+  progressively: no
+  twitter: tbemsi
+  uselatex: yes
+menu:
+  primary:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 1
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 2
