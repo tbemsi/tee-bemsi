@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Renga Theme for Hugo on Hugo Renga Theme Demo</title>
+    <link>/</link>
+    <description>Recent content in The Renga Theme for Hugo on Hugo Renga Theme Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Nov 2018 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can Cameroon entrepreneur itself into a brighter future?</title>
+      <link>/blog/post/entrepreneur/</link>
+      <pubDate>Sun, 31 Jan 2016 13:09:13 -0600</pubDate>
+      
+      <guid>/blog/post/entrepreneur/</guid>
+      <description>A friend of mine recently drew my attention to a writing competition with the above title as subject. For what it’s worth, the said competition was open only to undergraduate students; since I am unfortunate enough to no longer be an undergraduate, I was not eligible.
+However, I think the question itself merits attention, especially because of recent trends. Because of corruption and many other ills, many people have lost all faith in governments (not only in Cameroon, but all over Africa).</description>
+    </item>
+    
+    <item>
+      <title>The morality of intentions</title>
+      <link>/blog/post/intentions/</link>
+      <pubDate>Tue, 17 Feb 2015 13:09:13 -0600</pubDate>
+      
+      <guid>/blog/post/intentions/</guid>
+      <description>Our actions do not always line up with our intentions. I wonder how this simple fact shapes our opinions of ourselves, and others.
+There is a biblical quote I often hear from people trying to justify a certain course of action gone wrong: “Man looks at the outward appearance, but God looks at the heart.” This is usually said in a bid to imply that their hearts were in the right place, and that, even if the people around them do not recognize that, at least God does, because He sees the intentions behind the misunderstood actions.</description>
+    </item>
+    
+    <item>
+      <title>Advice and trouble</title>
+      <link>/blog/post/advice/</link>
+      <pubDate>Tue, 10 Feb 2015 13:09:13 -0600</pubDate>
+      
+      <guid>/blog/post/advice/</guid>
+      <description>I recently realized how often people get into trouble for giving advice, and I think it is because most (probably all) advice is bad.
+People usually seek advice when facing some life decision, or when they find themselves in trouble and need direction on how to proceed. Usually, what happens is the following: person A explains the details of a given situation person B, who, (hopefully) after some contemplation, offers possible directions on how to proceed, alongside the possible outcomes.</description>
+    </item>
+    
+    <item>
+      <title>About Jane</title>
+      <link>/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Lorem ipsum dolor sit amet, ex has sale ullum corrumpit, sea dicam nostrum sensibus ad. Porro tritani persecuti te sed. Omittam dissentias pro ex. Atqui luptatum duo id. Eros minim eam ex, novum elitr accusam quo in. Nec ne audire euripidis, mea qualisque consetetur cu. Suspendisse volutpat sem a risus euismod convallis.
+In modus congue feugait eos. In nec nonumy volutpat corrumpit, sea assentior quaerendum no, cum affert scripta ea. No nihil voluptaria pro.</description>
+    </item>
+    
+  </channel>
+</rss>

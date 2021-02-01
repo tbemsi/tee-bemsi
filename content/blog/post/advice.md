@@ -34,13 +34,14 @@ I would probably have considered the possibility of never giving any advice in m
 
 However, when pondering the words of wisdom to spew out on a particular issue, I think it is an important rule of thumb to factor in the person before you, asking for advice. Unless you happen to be Jesus Christ, [5] I don't think you are willing to die for the entire world. However, there are (or should be) people who are worth getting in trouble for. For those, you could simply give the full extent of your counsel, and prepare for whatever the outcome may be. For the others, you should think carefully about how liable you want to be for what you say, before giving your opinion on the issue.
 
-Notes:
+*Notes*:
+
 [1] I've heard some people say they are totally objective., even with themselves Not only do I think that is false, I think it is scary. I think I will be scared of somebody who is not even a little bit biased in their own favor. If you are not the hero of your own story, who is?
 
 [2] This is the best case scenario. At worst, it is a poor solution to a poorly – posed problem.
 
-[4] Sometimes the counselee has already made up their mind, and just wants somebody backing their premeditated course of action.
+[3] Sometimes the counselee has already made up their mind, and just wants somebody backing their premeditated course of action.
 
-[5] For the record, I don't think you are.
+[4] For the record, I don't think you are.
 
 Thanks to: Rowena Cornelius, Tonge Mabel, Mbu Waindim and Augustine Annan for reading drafts of this.
