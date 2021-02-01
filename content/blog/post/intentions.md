@@ -1,28 +1,25 @@
 ---
 author: Bemsibom Toh
-date: "2015-01-01T13:09:13-06:00"
+date: "2015-02-17T13:09:13-06:00"
 title: The morality of intentions
 ---
 
-It is no surprise (to most people) that our actions do not always line up with our intentions. Many times we do things we did not intend to, or wish we had done some things but didn't. In some way that could be a definition of the English word “mistake”: the occurrence of a discrepancy between one's intentions and actions.
+Our actions do not always line up with our intentions. I wonder how this simple fact shapes our opinions of ourselves, and others.
 
-What is interesting, though, is our view of these occurrences, and how they shape our opinions of ourselves, and others.
+There is a biblical quote I often hear from people trying to justify a certain course of action gone wrong: “Man looks at the outward appearance, but God looks at the heart.” This is usually said in a bid to imply that their hearts were in the right place, and that, even if the people around them do not recognize that, at least God does, because He sees the intentions behind the misunderstood actions.
 
-There is a biblical quote I often hear from people trying to justify a certain course of action gone wrong: “Man looks at the outward appearance, but God looks at the heart.” This is usually said in a bid to imply that their hearts were in the right place, and that, even if the people around them do not, or can not recognize that, at least God does, because He sees the intentions behind the misunderstood actions.
+There is nothing wrong with that assertion in and of itself. However, it is sometimes used as a pejorative insinuation: that people have the choice to look beyond others' actions and see their intentions, but simply choose not to, because of some inherent wickedness.
 
-Even though there is nothing wrong with that assertion in and of itself, it is sometimes used as a pejorative insinuation: that people have the choice to look beyond others' actions and see their intentions, but simply choose not to, because of some inherent wickedness.
+This may be the case sometimes, but it does not happen as often as people would like to think it does. The thought of it even raises some questions about the nature of personal ethics and morality as a whole. What should carry more weight in the formation of our opinions of ourselves: the results of our actions or the nobility of our intentions? And by what standards should a person's contributions to the world around him be measured? What they do, or what they wish they had done?
 
-Even though this is sometimes the case (that people deliberately overlook the goodwill of others to focus on what they did wrong), it does not happen as often as people would like to think it does. The thought of it even raises some questions about the nature of personal ethics and morality as a whole. What should carry more weight in the formation of our opinions of ourselves: the results of our actions or the nobility of our intentions? And by what standards should a person's contributions to the world around him be measured? What they do, or what they wish they had done?
-
-To get a better understanding of the problem, let us consider the story of king David of Israel, in the Old Testament. He is known as the greatest king the nation ever had, and is usually referred to as the “man after God's own heart”. However, the man also made quite a few mistakes in his lifetime, the most notable of which was an affair with Bathsheba, which subsequently led to him killing her husband, and marrying her.
+To get a better understanding of the problem, let us consider the story of king David of Israel, in the Old Testament. He is widely considered the greatest king the nation ever had, and is usually referred to as the “man after God's own heart”. However, the man also made quite a few mistakes in his lifetime, the most notable of which was an affair with Bathsheba, which subsequently led to him killing her husband, and marrying her.
 
 Every time I read that story, a number of questions come to mind: What if Uriah (Bathsheba's first husband) was my father? What if my father was killed, not because of some crime he committed or some dispute he had with the king (or anybody else, for that matter), but because the king happened to see my mother naked (when he was supposed to be at war, by the way)? Would it matter to me that the king had a good heart? Would I be able to tell myself that this man was a man after God's heart? [1]
 
 There may be some exceptionally gracious people in today's world, but I doubt that the average person unfortunate enough to experience such tragedy would be able to look beyond that action, to see that the king's heart was in the right place.
 
-Now, David's example is probably not the best illustration, because looking at his life in entirety, we see that such mistakes were the exception, not the norm, and, even then, he owned up to his actions when reprimanded.
 
-For the sake of discussion, let us consider the case of some other hypothetical person, with just as much power, who repeatedly carries out such actions, but instead of owning up to his mistakes and finding ways to act better, points to the quality of their heart, and the purity of their intentions. How tolerant would we be, and how much would his intentions count?
+Let us consider the case of some other hypothetical person, with just as much power, who repeatedly carries out such actions, but instead of owning up to his mistakes and finding ways to act better, points to the quality of their heart, and the purity of their intentions. How tolerant would we be, and how much would his intentions count?
 
 Or, the case of a medical doctor or nurse, who, for lack of training or other reasons, is unable to properly diagnose and treat patients in her care, leaving them to die, instead of recovering at the hospital. What would matter more? That she became a nurse because of a genuine love of people, and has the best of intentions when handling patients? Or that patients die when they go through her hands?
 
