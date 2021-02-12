@@ -3,18 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/about/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2018-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2016-01-31T13:09:13-06:00</lastmod>
+    <lastmod>2017-01-01T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/post/anglophone_crisis_two/</loc>
+    <lastmod>2017-01-01T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/post/anglophone_crisis/</loc>
+    <lastmod>2016-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/post/equality/</loc>
+    <lastmod>2016-02-07T13:09:13-06:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/post/entrepreneur/</loc>
     <lastmod>2016-01-31T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/post/debate/</loc>
+    <lastmod>2015-11-26T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/post/writing/</loc>
+    <lastmod>2015-10-30T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/post/pursuit_happiness/</loc>
+    <lastmod>2015-10-06T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/post/education_africa/</loc>
+    <lastmod>2015-10-02T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/post/advice_two/</loc>
+    <lastmod>2015-02-17T13:09:13-06:00</lastmod>
   </url>
   
   <url>
@@ -28,8 +73,18 @@
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>/blog/post/africa_devt_two/</loc>
+    <lastmod>2015-01-21T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/post/africa_devt_one/</loc>
+    <lastmod>2015-01-21T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/post/aging/</loc>
+    <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url>
   
   <url>

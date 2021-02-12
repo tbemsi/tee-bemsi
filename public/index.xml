@@ -1,12 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Renga Theme for Hugo on Hugo Renga Theme Demo</title>
+    <title>The Renga Theme for Hugo on bmsbm</title>
     <link>/</link>
-    <description>Recent content in The Renga Theme for Hugo on Hugo Renga Theme Demo</description>
+    <description>Recent content in The Renga Theme for Hugo on bmsbm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 09 Nov 2018 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I have worn many hats in the past. This is a repository of some of the thoughts I have had in the past.</description>
+    </item>
+    
+    <item>
+      <title>The anglophone crisis II</title>
+      <link>/blog/post/anglophone_crisis_two/</link>
+      <pubDate>Sun, 01 Jan 2017 13:09:13 -0600</pubDate>
+      
+      <guid>/blog/post/anglophone_crisis_two/</guid>
+      <description>A few weeks ago, I wrote an essay on some of my views on what is a growing (‘alarming’ may be the appropriate word soon) problem in Cameroon: the Anglophone problem. In that essay, I assumed that the average reader of this essay would be quite familiar with the nature of the problem, and then moved to comment on more peripheral issues.
+However, in the days since then, I have found several reactions which have led me to write this follow up.</description>
+    </item>
+    
+    <item>
+      <title>The anglophone crisis</title>
+      <link>/blog/post/anglophone_crisis/</link>
+      <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/post/anglophone_crisis/</guid>
+      <description>For the past several days I, like every other English-speaking Cameroonian, have followed with avid interest the developments of the various strikes that have been going on in the country, as well as the flurry of emotions and opinions that have accompanied them.
+The issue at hand is the “Anglophone problem”, which is, the marginalisation of the Anglophones in the country.
+A few people tried to deny the presence of any such problem.</description>
+    </item>
+    
+    <item>
+      <title>Equality is overrated</title>
+      <link>/blog/post/equality/</link>
+      <pubDate>Sun, 07 Feb 2016 13:09:13 -0600</pubDate>
+      
+      <guid>/blog/post/equality/</guid>
+      <description>Today there is a lot of talk about equality in relationships. The overall idea is that there should be an equitable distribution of load between the partners in a relationship.
+This is an idea with plenty of merit. For many centuries women were thought of as lesser human beings. They couldn’t get an education, work, or even own property. Which was terribly wrong.
+Now there is a strong emphasis on equality, but in many ways it is as destructive as the original myths.</description>
+    </item>
+    
     <item>
       <title>Can Cameroon entrepreneur itself into a brighter future?</title>
       <link>/blog/post/entrepreneur/</link>
@@ -15,6 +56,53 @@
       <guid>/blog/post/entrepreneur/</guid>
       <description>A friend of mine recently drew my attention to a writing competition with the above title as subject. For what it’s worth, the said competition was open only to undergraduate students; since I am unfortunate enough to no longer be an undergraduate, I was not eligible.
 However, I think the question itself merits attention, especially because of recent trends. Because of corruption and many other ills, many people have lost all faith in governments (not only in Cameroon, but all over Africa).</description>
+    </item>
+    
+    <item>
+      <title>Debates</title>
+      <link>/blog/post/debate/</link>
+      <pubDate>Thu, 26 Nov 2015 13:09:13 -0600</pubDate>
+      
+      <guid>/blog/post/debate/</guid>
+      <description>Interesting things happen when people disagree. In the best of cases, they genuinely listen to each other, following one another’s thought processes, analyzing their differences and finally learning plenty of new things in the process. In the worst of cases, they end up angry and frustrated. However, whatever the outcome, arguing things out is a vital part of life – whether “smaller” issues in personal relationships, or broader issues in culture at large.</description>
+    </item>
+    
+    <item>
+      <title>Why do we write?</title>
+      <link>/blog/post/writing/</link>
+      <pubDate>Fri, 30 Oct 2015 13:09:13 -0600</pubDate>
+      
+      <guid>/blog/post/writing/</guid>
+      <description>Many writers feel angst in face of the blank page 1. No matter how much experience they have, or what kind of things they write, there is a feeling of inadequateness that accompanies the writing process. Many questions come to mind: Does what I have to say make sense? Is it relevant? Am I saying it right? Are my arguments coherent? However, the most common question, and probably the most devastating, is: Has somebody else not already said this?</description>
+    </item>
+    
+    <item>
+      <title>The pursuit of happiness</title>
+      <link>/blog/post/pursuit_happiness/</link>
+      <pubDate>Tue, 06 Oct 2015 13:09:13 -0600</pubDate>
+      
+      <guid>/blog/post/pursuit_happiness/</guid>
+      <description>I recently listened to a group of people describe their aspirations for life, and was particularly intrigued by how often people said they wanted to be “happy”. Because people generally tend to hope for things they feel they lack, it was only natural for me to assume that they felt they were not happy at the moment. But they really seemed like very happy people to me, and so I proceeded to ask them what their conception of happiness was, and why it was that they didn’t think they were happy at the moment.</description>
+    </item>
+    
+    <item>
+      <title>Education in Africa</title>
+      <link>/blog/post/education_africa/</link>
+      <pubDate>Fri, 02 Oct 2015 13:09:13 -0600</pubDate>
+      
+      <guid>/blog/post/education_africa/</guid>
+      <description>Everybody knows that there are problems with the school systems in many African countries. Few teachers, poor infrastructure and general poverty hinder many students impede many students from getting quality education in the various educational institutions across the continent, especially the public schools.
+A few people have stepped forward to do something about this problem. They have built organizations aimed at providing high-quality education to young people in under-privileged communities across the continent.</description>
+    </item>
+    
+    <item>
+      <title>Advice and trouble II</title>
+      <link>/blog/post/advice_two/</link>
+      <pubDate>Tue, 17 Feb 2015 13:09:13 -0600</pubDate>
+      
+      <guid>/blog/post/advice_two/</guid>
+      <description>I recently wrote an essay in which I investigated the reason why people get in trouble for giving advice. I received some very interesting feedback from quite a few readers, who pointed out something I had not considered at the time I was thinking about the other topic, and which I thought would be interesting to think about.
+It was about a set of four words very few people like to hear: “I told you so”.</description>
     </item>
     
     <item>
@@ -38,13 +126,31 @@ People usually seek advice when facing some life decision, or when they find the
     </item>
     
     <item>
-      <title>About Jane</title>
-      <link>/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Africa and leadership II</title>
+      <link>/blog/post/africa_devt_two/</link>
+      <pubDate>Wed, 21 Jan 2015 13:09:13 -0600</pubDate>
       
-      <guid>/about/</guid>
-      <description>Lorem ipsum dolor sit amet, ex has sale ullum corrumpit, sea dicam nostrum sensibus ad. Porro tritani persecuti te sed. Omittam dissentias pro ex. Atqui luptatum duo id. Eros minim eam ex, novum elitr accusam quo in. Nec ne audire euripidis, mea qualisque consetetur cu. Suspendisse volutpat sem a risus euismod convallis.
-In modus congue feugait eos. In nec nonumy volutpat corrumpit, sea assentior quaerendum no, cum affert scripta ea. No nihil voluptaria pro.</description>
+      <guid>/blog/post/africa_devt_two/</guid>
+      <description>In the first part of this essay, I suggested that bad leadership may not be the root of all the evils Africa is facing. Of course there is a leadership problem from all accounts, but then, I posited that this leadership issue is not the root, but somewhat of a stem, an intermediary in the whole underdevelopment process. I then supported Fred Swaniker&amp;rsquo;s theory on the weakness of the institutions throughout the continent, given that it happens to explain away many of the social phenomena we observe in Africa.</description>
+    </item>
+    
+    <item>
+      <title>Africa&#39;s and leadership - I</title>
+      <link>/blog/post/africa_devt_one/</link>
+      <pubDate>Wed, 21 Jan 2015 13:09:13 -0600</pubDate>
+      
+      <guid>/blog/post/africa_devt_one/</guid>
+      <description>It seems to me that every African knows that the continent has issues, and, were you to ask any one of them what problems their continent faces, the number one response would be “bad leadership”. If you had asked me the same question sometime ago, I would probably have given you the same answer. But for a while now, I have been thinking about the whole bad leadership thing quite seriously, and why the problem is so particular to Africa.</description>
+    </item>
+    
+    <item>
+      <title>Aging</title>
+      <link>/blog/post/aging/</link>
+      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
+      
+      <guid>/blog/post/aging/</guid>
+      <description>I was born into a world where people celebrate birthdays. The exact reason I wonder sometimes, but I guess most people do so because it&amp;rsquo;s kind of a milestone… a celebration of life, a rite of passage to old age?
+Today, I think about age, and what it represents. For the most part, age comes with wisdom ; a certain perspective, ripeness, gravitas. A sense of grounding in reality. When we are young, everybody believes in us.</description>
     </item>
     
   </channel>
