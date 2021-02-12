@@ -1,6 +1,6 @@
 ---
 author: Bemsibom Toh
-date: "2021-02-12T13:09:13-06:00"
+date: "2021-02-12"
 title: Valuing common values
 ---
 
