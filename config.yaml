@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: /about/
 title: bmsbm
 author: Bemsibom Toh
 canonifyurls: yes
@@ -17,9 +17,9 @@ params:
   copyrightUrl: https://nanx.me/hugo-renga/
   email: tbemsi@gmail.com
   faviconfile: image/favicon.png
-  github: nanxstats
+  github: tbemsi
   highlightjs: yes
-  linkedin: nanxstats
+  linkedin: bemsibom-toh
   logofile: image/pp.jpeg
   pagetitle: Bemsibom Toh
   posts_navigation: yes
