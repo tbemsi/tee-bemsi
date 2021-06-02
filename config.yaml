@@ -13,14 +13,14 @@ ignoreFiles:
   - _files$
   - _cache$
 params:
-  copyright: © 2020 Bemsibom Toh
+  copyright: © 2021 Bemsibom Toh
   copyrightUrl: https://nanx.me/hugo-renga/
   email: tbemsi@gmail.com
   faviconfile: image/favicon.png
   github: nanxstats
   highlightjs: yes
   linkedin: nanxstats
-  logofile: image/avatar.png
+  logofile: image/pp.jpg
   pagetitle: Bemsibom Toh
   posts_navigation: yes
   progressively: no
