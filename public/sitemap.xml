@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/post/values/</loc>
+    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
@@ -10,11 +20,6 @@
   <url>
     <loc>/</loc>
     <lastmod>2018-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <lastmod>2017-01-01T13:09:13-06:00</lastmod>
   </url>
   
   <url>
