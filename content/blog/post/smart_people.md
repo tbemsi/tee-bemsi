@@ -14,7 +14,7 @@ Their friends and family admire them for their impressive minds, but cringe over
 
 Consequently, most of the very smart people I knew in my youth struggled very hard to hide their love of learning (there seems to be a very strong correlation between being book smart and enjoying the pursuit of knowledge for its own sake), in a bid to gain social approval, or at least, not appear so smart and nerdy. 
 
-The current assumptions, especially in Africa, are that these smart people will only reach their full potential if they became businessmen of some sorts, and that everybody wants to be tremendously rich [^myfootnote]. 
+The current assumptions, especially in Africa, are that these smart people will only reach their full potential if they became businessmen of some sorts, and that everybody wants to be tremendously rich [^1]. 
 
 I think the second assumption is false. While everybody I know would agree that it doesn't hurt to have plenty of money, the smart people I know have a slightly different set of priorities. Before being rich, they want to be smart. They want to be great at mathematics, or excellent writers, or rigorous thinkers. They want to understand how things work, before asking how much they can be sold for. As such, while people look at them with the air of pity/disgust over the apparent waste of their potential, they do not understand that they are doing what they love, and that, for the most part, they find fulfillment in what they are doing.
 
@@ -26,5 +26,6 @@ It wouldn't surprise me, if, after reading this, you came to the conclusions tha
 
 Why then, did I write this? Well, because I have quite a few smart (and nerdy) friends, and I think it would be great, for everybody's sake, if they remained that way.
 
+**Notes:**
 
-[^myfootnote] I think this a reaction from recent cultural trends in Africa. Until a few years ago, there was a huge emphasis on higher education. Everybody believed that the only way to achieve anything in life was to become a professor. To be fair, in some parts of Africa, that is still the case. That that thinking was wrong does not justify shifting to the other extreme of the spectrum.
+[^1] I think this a reaction from recent cultural trends in Africa. Until a few years ago, there was a huge emphasis on higher education. Everybody believed that the only way to achieve anything in life was to become a professor. To be fair, in some parts of Africa, that is still the case. That that thinking was wrong does not justify shifting to the other extreme of the spectrum.

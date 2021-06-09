@@ -1,5 +1,5 @@
 baseurl: /
-title: bmsbm
+title: Bemsibom Toh
 author: Bemsibom Toh
 canonifyurls: yes
 languagecode: en
@@ -14,10 +14,8 @@ ignoreFiles:
   - _cache$
 params:
   copyright: © 2021 Bemsibom Toh
-  copyrightUrl: https://nanx.me/hugo-renga/
   email: tbemsi@gmail.com
   faviconfile: image/favicon.png
-  github: tbemsi
   highlightjs: yes
   linkedin: bemsibom-toh
   logofile: image/pp.jpeg
