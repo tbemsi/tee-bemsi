@@ -1,5 +1,5 @@
 ---
-description: Jane Doe's blog
+description: Bemsi
 menu: main
 title: Blog
 ---

@@ -15,7 +15,7 @@ ignoreFiles:
 params:
   copyright: © 2021 Bemsibom Toh
   email: tbemsi@gmail.com
-  faviconfile: image/favicon.png
+  #faviconfile: image/avatar.png
   highlightjs: yes
   linkedin: bemsibom-toh
   logofile: image/pp.jpeg
